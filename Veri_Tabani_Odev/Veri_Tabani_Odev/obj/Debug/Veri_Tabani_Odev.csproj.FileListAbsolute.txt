@@ -1,0 +1,10 @@
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\bin\Debug\Veri_Tabani_Odev.exe.config
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\bin\Debug\Veri_Tabani_Odev.exe
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\bin\Debug\Veri_Tabani_Odev.pdb
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\obj\Debug\Veri_Tabani_Odev.csprojAssemblyReference.cache
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\obj\Debug\Veri_Tabani_Odev.Form1.resources
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\obj\Debug\Veri_Tabani_Odev.Properties.Resources.resources
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\obj\Debug\Veri_Tabani_Odev.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\obj\Debug\Veri_Tabani_Odev.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\obj\Debug\Veri_Tabani_Odev.exe
+C:\Users\alper\source\repos\Veri_Tabani_Odev\Veri_Tabani_Odev\obj\Debug\Veri_Tabani_Odev.pdb
