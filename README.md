@@ -3,7 +3,7 @@ Homework
 
 C# ile SQL Server kullanarak oluşturduğum basit bir veritabanıdır.
 Açıklama satırları mevcut. Tüm sistem kendini açıklıyor.
-SQL Backup dosyası mevcut değildir. Programın çalıştığını görmek için oluşturmanız gereken veri tabanının tabloları görsel olarak yüklenecektir.
+SQL Backup dosyası mevcut değildir. Programın çalıştığını görmek için oluşturmanız gereken veri tabanının tabloları görsel olarak yükledim. Görseldeki gibi tabloları oluşturmanız yeterli olacaktır.
 
 ---PROGRAM---
 Program; 
